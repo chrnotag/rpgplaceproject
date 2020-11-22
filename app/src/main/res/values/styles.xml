@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TexPlain" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/textinputbackground</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <style name="Botao" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttonbackground</item>
+    </style>
+
+    <style name="ErrorText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/erroColor</item>
+        <item name="fontFamily">@font/mollas</item>
+    </style>
+
+    <style name="TextoBotao" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/clarendon</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="cadastrese" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/azulAviso</item>
+        <item name="fontFamily">@font/clarendon</item>
+    </style>
+
+</resources>

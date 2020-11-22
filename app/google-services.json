@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903866422585",
+    "firebase_url": "https://rpg-place-490c3.firebaseio.com",
+    "project_id": "rpg-place-490c3",
+    "storage_bucket": "rpg-place-490c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903866422585:android:e63ab37b2ea715e7aac4e8",
+        "android_client_info": {
+          "package_name": "com.example.meow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903866422585-8ol1a6piqnqg01b2nfeath8i5bmio5pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meow",
+            "certificate_hash": "7051481110f1c080723aae97d116f13d6f6bec95"
+          }
+        },
+        {
+          "client_id": "903866422585-girvf1r3vk9d005r6mqoftadqeicnbpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5HC1CcZ69nPXdPIvOZjgdY5ARX2UHA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903866422585-girvf1r3vk9d005r6mqoftadqeicnbpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
